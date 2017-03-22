@@ -19,6 +19,8 @@ public class PhoneBookVG {
         recordList.add(r);
     }
 
+
+
     @Command
     public List<Record> list() {
         return recordList;
